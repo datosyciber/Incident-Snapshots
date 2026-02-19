@@ -2,7 +2,9 @@
 
 _Intelligence snapshots, investigation templates, and KQL-driven analysis workflows._ 
 
-This repository contains a collection of **threat‑hunting snapshots**, **MITRE ATT&CK mappings**, and **incident investigation templates** designed to support cybersecurity analysts during detection, triage, and reporting activities. The goal is to provide **structured, reusable, and scalable documentation** for investigations performed using **Kusto Query Language (KQL)** across simulated or real enterprise environments. --- 
+This repository contains a collection of **threat‑hunting snapshots**, **MITRE ATT&CK mappings**, and **incident investigation templates** designed to support cybersecurity analysts during detection, triage, and reporting activities. The goal is to provide **structured, reusable, and scalable documentation** for investigations performed using **Kusto Query Language (KQL)** across simulated or real enterprise environments. 
+
+--- 
 
 ## Objectives
 - Map adversary behavior to the **MITRE ATT&CK** framework
