@@ -17,5 +17,6 @@ This repository contains a collection of **threat‑hunting snapshots**, **MITRE
 
 KC7 Profile: [Vexariel](http://kc7cyber.com/profile/vexariel)
 
-Global Ranking: 702
-Daily7 Ranking: 29
+- Global Ranking: 702
+
+- Daily7 Ranking: 29
